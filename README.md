@@ -25,7 +25,7 @@
 
 ##### Clone the latest Repository
 
-`git clone https:
+`git clone https://github.com/Akhil-Aditya/NodejsAuthentication.io.git
 
 ##### Into the project directory
 
